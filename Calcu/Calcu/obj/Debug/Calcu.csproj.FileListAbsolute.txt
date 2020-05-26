@@ -1,0 +1,9 @@
+C:\Users\THINK\source\repos\Calcu\Calcu\bin\Debug\Calcu.exe.config
+C:\Users\THINK\source\repos\Calcu\Calcu\bin\Debug\Calcu.exe
+C:\Users\THINK\source\repos\Calcu\Calcu\bin\Debug\Calcu.pdb
+C:\Users\THINK\source\repos\Calcu\Calcu\obj\Debug\Calcu.csprojAssemblyReference.cache
+C:\Users\THINK\source\repos\Calcu\Calcu\obj\Debug\Calcu.Form1.resources
+C:\Users\THINK\source\repos\Calcu\Calcu\obj\Debug\Calcu.Properties.Resources.resources
+C:\Users\THINK\source\repos\Calcu\Calcu\obj\Debug\Calcu.csproj.GenerateResource.cache
+C:\Users\THINK\source\repos\Calcu\Calcu\obj\Debug\Calcu.exe
+C:\Users\THINK\source\repos\Calcu\Calcu\obj\Debug\Calcu.pdb
