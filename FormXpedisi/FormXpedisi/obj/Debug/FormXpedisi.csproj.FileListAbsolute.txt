@@ -1,0 +1,9 @@
+C:\Users\THINK\source\repos\FormXpedisi\FormXpedisi\bin\Debug\FormXpedisi.exe.config
+C:\Users\THINK\source\repos\FormXpedisi\FormXpedisi\bin\Debug\FormXpedisi.exe
+C:\Users\THINK\source\repos\FormXpedisi\FormXpedisi\bin\Debug\FormXpedisi.pdb
+C:\Users\THINK\source\repos\FormXpedisi\FormXpedisi\obj\Debug\FormXpedisi.csprojAssemblyReference.cache
+C:\Users\THINK\source\repos\FormXpedisi\FormXpedisi\obj\Debug\FormXpedisi.Form1.resources
+C:\Users\THINK\source\repos\FormXpedisi\FormXpedisi\obj\Debug\FormXpedisi.Properties.Resources.resources
+C:\Users\THINK\source\repos\FormXpedisi\FormXpedisi\obj\Debug\FormXpedisi.csproj.GenerateResource.cache
+C:\Users\THINK\source\repos\FormXpedisi\FormXpedisi\obj\Debug\FormXpedisi.exe
+C:\Users\THINK\source\repos\FormXpedisi\FormXpedisi\obj\Debug\FormXpedisi.pdb
