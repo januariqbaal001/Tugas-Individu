@@ -1,0 +1,9 @@
+D:\KULIAH\forking\pa\Tugas Optional (Pem. Visual)\APLIKASI WEB\APLIKASI WEB\bin\Debug\APLIKASI WEB.exe.config
+D:\KULIAH\forking\pa\Tugas Optional (Pem. Visual)\APLIKASI WEB\APLIKASI WEB\bin\Debug\APLIKASI WEB.exe
+D:\KULIAH\forking\pa\Tugas Optional (Pem. Visual)\APLIKASI WEB\APLIKASI WEB\bin\Debug\APLIKASI WEB.pdb
+D:\KULIAH\forking\pa\Tugas Optional (Pem. Visual)\APLIKASI WEB\APLIKASI WEB\obj\Debug\Web Search.csprojAssemblyReference.cache
+D:\KULIAH\forking\pa\Tugas Optional (Pem. Visual)\APLIKASI WEB\APLIKASI WEB\obj\Debug\APLIKASI_WEB.Form1.resources
+D:\KULIAH\forking\pa\Tugas Optional (Pem. Visual)\APLIKASI WEB\APLIKASI WEB\obj\Debug\APLIKASI_WEB.Properties.Resources.resources
+D:\KULIAH\forking\pa\Tugas Optional (Pem. Visual)\APLIKASI WEB\APLIKASI WEB\obj\Debug\Web Search.csproj.GenerateResource.cache
+D:\KULIAH\forking\pa\Tugas Optional (Pem. Visual)\APLIKASI WEB\APLIKASI WEB\obj\Debug\APLIKASI WEB.exe
+D:\KULIAH\forking\pa\Tugas Optional (Pem. Visual)\APLIKASI WEB\APLIKASI WEB\obj\Debug\APLIKASI WEB.pdb

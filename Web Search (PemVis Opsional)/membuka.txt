@@ -1,0 +1,7 @@
+cara buka file nya:
+-> masuk ke folder Web Search
+-> klik dua kali di Web Search.csproj
+// atau klik kanan lalu open with 
+visual studio 2019
+// atau klik dua di Web Search.sln
+yang di dalam folder Web Search
